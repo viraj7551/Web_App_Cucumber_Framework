@@ -1,0 +1,5 @@
+22:15:37.520 [main] INFO  Utility.Base - driver is been initialized
+22:15:38.844 [main] INFO  Utility.Base - user is redirect to site url
+22:15:38.851 [main] INFO  Utility.Base - browser window is been maximized
+22:15:38.902 [main] INFO  Utility.Base - site url ishttps://www.demoblaze.com/
+22:15:38.998 [main] INFO  Utility.Base - browser is closed
